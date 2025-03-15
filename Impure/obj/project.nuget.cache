@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1bfIdWBhKvVoEPLAntGxKySNHe1tKnaCrt5jAc2cIpaSNJlp36R4hw7tyN1mzzv27ZZoh/hrQjtYD/L1zRCN9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\Impure\\Impure.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryani\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\ryani\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512",
+    "C:\\Users\\ryani\\.nuget\\packages\\mstest.testframework\\3.1.1\\mstest.testframework.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

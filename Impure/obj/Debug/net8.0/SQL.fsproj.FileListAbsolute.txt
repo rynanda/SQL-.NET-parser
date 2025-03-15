@@ -1,0 +1,188 @@
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.exe
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.runtimeconfig.json
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\FParsec.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\FParsecCS.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.fsproj.AssemblyReference.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.fs
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.fsproj.CoreCompileInputs.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.fsproj.Up2Date
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.genruntimeconfig.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\ref\SQL.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.exe
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.runtimeconfig.json
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\FParsec.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\FParsecCS.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.fsproj.AssemblyReference.cache
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.fs
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.fsproj.CoreCompileInputs.cache
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.fsproj.Up2Date
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\SQL.genruntimeconfig.cache
+C:\Users\ryani\OneDrive\Documents\Uni\CAB402 - Programming Paradigms\Pracs and Assignment\Assignment\SkeletonSolution\SQL\obj\Debug\net8.0\ref\SQL.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\SQL.exe
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\SQL.runtimeconfig.json
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\FParsec.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\FParsecCS.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.fsproj.AssemblyReference.cache
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.fs
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.fsproj.CoreCompileInputs.cache
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.fsproj.Up2Date
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\SQL.genruntimeconfig.cache
+C:\Users\ryani\Desktop\ImpureSolution\SQL\obj\Debug\net8.0\ref\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\SQL.exe
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\SQL.deps.json
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\SQL.runtimeconfig.json
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\SQL.pdb
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\FParsec.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\FParsecCS.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\FSharp.Core.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\cs\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\de\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\es\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\fr\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\it\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\ja\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\ko\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\pl\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\ru\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\tr\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\cs\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\de\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\fr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\it\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\ja\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\ko\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\pl\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\pt-BR\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\tr\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hans\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\bin\Debug\net8.0\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.fsproj.AssemblyReference.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfoInputs.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.AssemblyInfo.fs
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.fsproj.CoreCompileInputs.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.fsproj.Up2Date
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\refint\SQL.dll
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.pdb
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\SQL.genruntimeconfig.cache
+C:\Users\ryani\Desktop\CAB402\Assignment\ImpureSolution\SQL\obj\Debug\net8.0\ref\SQL.dll
