@@ -1,0 +1,170 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\UnitTests\\UnitTests.fsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\SQL\\SQL.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\SQL\\SQL.fsproj",
+        "projectName": "SQL",
+        "projectPath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\SQL\\SQL.fsproj",
+        "packagesPath": "C:\\Users\\ryani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\SQL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\sdk\\8.0.200\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FParsec": {
+              "target": "Package",
+              "version": "[1.1.1, )",
+              "generatePathProperty": true
+            },
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.200, )",
+              "generatePathProperty": true
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\UnitTests\\UnitTests.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\UnitTests\\UnitTests.fsproj",
+        "projectName": "UnitTests",
+        "projectPath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\UnitTests\\UnitTests.fsproj",
+        "packagesPath": "C:\\Users\\ryani\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ryani\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "c:\\program files\\dotnet\\sdk\\8.0.200\\FSharp\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\SQL\\SQL.fsproj": {
+                "projectPath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\SQL\\SQL.fsproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[8.0.200, )",
+              "generatePathProperty": true
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.1.1, )",
+              "generatePathProperty": true
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.1.1, )",
+              "generatePathProperty": true
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )",
+              "generatePathProperty": true
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "c:\\program files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
