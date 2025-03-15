@@ -1,0 +1,14 @@
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.AssemblyInfoInputs.cache
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.AssemblyInfo.cs
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.csproj.CoreCompileInputs.cache
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\bin\Debug\net8.0\Csharp_Imperative.exe
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\bin\Debug\net8.0\Csharp_Imperative.deps.json
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\bin\Debug\net8.0\Csharp_Imperative.runtimeconfig.json
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\bin\Debug\net8.0\Csharp_Imperative.dll
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\bin\Debug\net8.0\Csharp_Imperative.pdb
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.dll
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\refint\Csharp_Imperative.dll
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.pdb
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\Csharp_Imperative.genruntimeconfig.cache
+C:\Users\ryani\Desktop\CAB402\Csharp_Imperative\Csharp_Imperative\obj\Debug\net8.0\ref\Csharp_Imperative.dll

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4veMM1QuPsqoHd9ZQYNNXD1yfdMbFw6nnZMuu3MFomVYzuHa8Mzh+wC3u9PKFvhlKGBJgBRugQ+RSXvuK+X/OA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ryani\\Desktop\\CAB402\\Assignment\\A1_n10852565\\ImperativeCSharp\\ImperativeCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ryani\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\ryani\\.nuget\\packages\\fsharp.core\\4.3.4\\fsharp.core.4.3.4.nupkg.sha512"
+  ],
+  "logs": []
+}
